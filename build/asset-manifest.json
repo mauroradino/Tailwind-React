@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tailwind-React/build/static/css/main.5e409b49.css",
+    "main.js": "/Tailwind-React/build/static/js/main.f4f1ecea.js",
+    "index.html": "/Tailwind-React/build/index.html",
+    "main.5e409b49.css.map": "/Tailwind-React/build/static/css/main.5e409b49.css.map",
+    "main.f4f1ecea.js.map": "/Tailwind-React/build/static/js/main.f4f1ecea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e409b49.css",
+    "static/js/main.f4f1ecea.js"
+  ]
+}
