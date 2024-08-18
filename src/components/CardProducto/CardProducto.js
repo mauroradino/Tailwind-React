@@ -1,13 +1,14 @@
 import React from 'react'
 import Swal from 'sweetalert2'
 
-const CardProducto = ({ handleClickTalle, i, calzado, calzadoTalles, activeButton }) => {
+const CardProducto = ({ incrementarContador, handleClickTalle, i, calzado, calzadoTalles, activeButton }) => {
 
     const Agregar = () => {
         Swal.fire({
             icon: "success",
             title: "Producto agregado con éxito"
         })
+        incrementarContador()
     }
 
     const ComprarAhora = () => {
